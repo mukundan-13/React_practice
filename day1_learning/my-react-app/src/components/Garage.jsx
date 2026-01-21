@@ -1,8 +1,7 @@
 import Car from "./Car";
 
 function Garage() {
-//   const brand = "Ferrari";
-//   const color = "red"
+//   props added
   const carInfo={brand:"Ferrari",color : "red"}
 
   return (
